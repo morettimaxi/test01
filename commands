@@ -14,3 +14,6 @@ git push origin main
 
 #actualizar
 oscar agrego algo
+
+#bajar cambio
+git pull origin main
