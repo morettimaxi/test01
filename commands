@@ -11,3 +11,5 @@ git commit -m "subo archivo" # agrega comentari
 
 #subir arhivo a la nube
 git push origin main
+
+#actualizar
